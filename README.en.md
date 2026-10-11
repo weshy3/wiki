@@ -3,6 +3,7 @@
 <img src="assets/LOGO-LocoWiki1-cut.jpg" alt="Introduction to Legged Robot Motion Control Development" width="820" />
 
 Project website: https://locowiki.github.io/
+sad
 
 > [中文](README.md) | English
 
